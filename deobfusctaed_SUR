@@ -2288,7 +2288,7 @@ if v15 then
         Title = 'Y Offset',
         Description = 'Adjust vertical distance',
         Default = -5,
-        Min = -5,
+        Min = -10,
         Max = 20,
         Rounding = 1,
         Callback = function(p340)
